@@ -1,5 +1,5 @@
 <h1 align="center">
-  starter-es6
+  learn-es6
 </h1>
 
 <h4 align="center">
